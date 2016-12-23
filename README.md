@@ -72,7 +72,7 @@ Hosting on Firebase, GitHub ...
 
 * react will still be big
 * Angular 2 coverage will grow
-* Vue.js will grow alot
+* Vue.js will grow a lot
 * A new Redux/MobX will appear
 * webpack 2 will be big
 * elixir/phoenix community will stronly grow
