@@ -104,7 +104,7 @@
 * Overleaf is still fine for most!
 
 
-## Hopes and wishes
+## Hopes and wishes for 2022
 
 * Rome(tools) will be released
   and pretty much speed up pretty js, linting js and run tests (hopefully with good IDE support)
@@ -114,6 +114,15 @@
 
 
 ## How it's going
+
+### CSS
+
+* https://2021.stateofcss.com/en-US/
+
+### JavaScript / Node
+
+* https://2021.stateofjs.com/en-US/
+* https://rome.tools/blog/2022/02/08/rome-formatter-and-rust-update
 
 
 ### Surprises
